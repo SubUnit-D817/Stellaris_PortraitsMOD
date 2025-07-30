@@ -1,0 +1,15 @@
+= オリジナル種族「アイギス」ポートレイト
+:author: SubUnit-D817
+:toc: left
+:toc-title: 目次
+
+== 1.このリポジトリについて
+拙作のStellaris用ポートレイトMODテンプレート（species_portrait_template）を使用して作成したポートレイトMOD置き場です。 +
+ポートレイト画像は生成AIを用いて作成しているので、Steam Workshopでの公開は行いません。 +
+ 
+== 2.使い方
+* zipファイルをダウンロード +
+* ダウンロードしたzipファイルを解凍し、StellarisのMODフォルダにぶち込んでください。 +
+ 
+== 3.イメージ
+image::Sample.png[]
