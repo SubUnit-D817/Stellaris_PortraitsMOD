@@ -2,11 +2,8 @@
 :author: SubUnit-D817
 :toc: left
 :toc-title: 目次
- 
-== 1.イメージ
-image::Sample.png[]
 
-== 2.説明
+== 1.説明
 https://github.com/SubUnit-D817/species_portrait_template[species_portrait_template] で作成したオリジナルポートレートです。 +
 有機生命体と機械種族のポートレート「アイギス」が追加されます。 +
 名称リスト「アイギス」および「アイギス（機械）」も追加されます。 +
@@ -16,3 +13,10 @@ https://github.com/SubUnit-D817/species_portrait_template[species_portrait_templ
 名称リストは以下のようになっています。 +
 ・アイギス：人類(SPQR)ベース +
 ・アイギス（機械）：機械 4ベース +
+ 
+== 2.イメージ
+image::Sample.png[]
+image::Sample_1.png[]
+image::Sample_2.png[]
+image::Sample_3.png[]
+image::Sample_4.png[]
