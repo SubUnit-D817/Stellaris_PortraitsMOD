@@ -11,6 +11,9 @@ https://github.com/SubUnit-D817/species_portrait_template[species_portrait_templ
 名称リストは自由に選択してください。 +
  +
 名称リストは「水晶竜乙女」および「水晶竜乙女（岩石）」共に岩石種族 4ベース（一部オリジナル） となっています。 +
+ +
+Steamワークショップでも公開しています。 +
+https://steamcommunity.com/sharedfiles/filedetails/?id=3538885951 +
 
 == 2.イメージ
 image::Sample.png[]
