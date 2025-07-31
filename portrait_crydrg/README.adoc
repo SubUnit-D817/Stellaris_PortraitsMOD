@@ -1,24 +1,24 @@
-= �ӂ��Ƃ畗�N���X�^���h���S�����|�[�g���[�g
+= ふっとら風クリスタルドラゴン娘ポートレート
 :author: SubUnit-D817
 :toc: left
-:toc-title: �ڎ�
+:toc-title: 目次
 
-== 1.����
-https://github.com/SubUnit-D817/species_portrait_template[species_portrait_template] �ō쐬�����I���W�i���|�[�g���[�g�ł��B +
-�L�@�����̂Ɗ�Ύ푰�̃|�[�g���[�g�u�����������v���ǉ�����܂��B +
-���̃��X�g�u�����������v����сu�����������i��΁j�v���ǉ�����܂��B +
-�����̉摜�݂̂ł��̂ŁA���O�ݒ莞�ɐ��ʂ������܂��͐��ʕs�ڂ�I�����Ă��������B +
-���̃��X�g�͎��R�ɑI�����Ă��������B +
+== 1.説明
+https://github.com/SubUnit-D817/species_portrait_template[species_portrait_template] で作成したオリジナルポートレートです。 +
+有機生命体と岩石種族のポートレート「水晶竜乙女」が追加されます。 +
+名称リスト「水晶竜乙女」および「水晶竜乙女（岩石）」も追加されます。 +
+女性の画像のみですので、名前設定時に性別を女性または性別不詳を選択してください。 +
+名称リストは自由に選択してください。 +
  +
-���̃��X�g�́u�����������v����сu�����������i��΁j�v���Ɋ�Ύ푰 4�x�[�X�i�ꕔ�I���W�i���j �ƂȂ��Ă��܂��B +
- +
-== 2.�C���[�W
+名称リストは「水晶竜乙女」および「水晶竜乙女（岩石）」共に岩石種族 4ベース（一部オリジナル） となっています。 +
+
+== 2.イメージ
 image::Sample.png[]
 image::Sample_1.png[]
 image::Sample_2.png[]
 image::Sample_3.png[]
 image::Sample_4.png[]
  
-== 3.�ӎ�
-�@��ƂȂ�N���X�^���h���S�����̐��݂̐e�ł���A�ӂ��Ƃ�l�� +
-�@���̃|�[�g���[�gMOD�̌��J�������������������܂������ƁA�S��芴�Ӑ\���グ�܂��B +
+== 3.謝辞
+　基となるクリスタルドラゴン娘の生みの親である、ふっとら様に +
+　このポートレートMODの公開を快く承諾いただきましたこと、心より感謝申し上げます。 +
