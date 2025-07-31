@@ -13,7 +13,10 @@ https://github.com/SubUnit-D817/species_portrait_template[species_portrait_templ
 名称リストは以下のようになっています。 +
 ・アイギス：人類(SPQR)ベース +
 ・アイギス（機械）：機械 4ベース +
- 
+ +
+Steamワークショップでも公開しています。 +
+https://steamcommunity.com/sharedfiles/filedetails/?id=3538856044 +
+
 == 2.イメージ
 image::Sample.png[]
 image::Sample_1.png[]
