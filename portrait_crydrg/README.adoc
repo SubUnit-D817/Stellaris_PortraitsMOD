@@ -1,5 +1,5 @@
 = ふっとら風クリスタルドラゴン娘ポートレート
-:author: SubUnit-D817
+:author: Xen-Shuto
 :toc: left
 :toc-title: 目次
 
