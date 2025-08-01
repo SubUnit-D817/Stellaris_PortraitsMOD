@@ -1,11 +1,11 @@
-= StellarisポートレイトMODサンプル
+= StellarisポートレートMODサンプル
 :author: Xen-Shuto
 :toc: left
 :toc-title: 目次
 
 == 1.このリポジトリについて
-拙作のStellaris用ポートレイトMODテンプレート（species_portrait_template）を使用して作成したポートレイトMOD置き場です。 +
-ポートレイト画像は生成AIを用いて作成しています。 +
+拙作のStellaris用ポートレートMODテンプレート（species_portrait_template）を使用して作成したポートレートMOD置き場です。 +
+ポートレートで使用している画像は全て生成AIを用いて作成しています。 +
  
 == 2.使い方
 * 各ディレクトリに配置しているzipファイルをダウンロード +
