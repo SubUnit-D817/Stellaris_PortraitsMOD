@@ -1,4 +1,4 @@
-= StellarisポートレートMODサンプル
+= StellarisポートレートMOD置き場
 :author: Xen-Shuto
 :toc: left
 :toc-title: 目次
